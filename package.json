@@ -1,0 +1,21 @@
+{
+  "name": "runoob",
+  "version": "1.0.0",
+  "description": "runoob nodejs",
+  "homepage": "https://github.com/Achillesy/nodejs-runoob#readme",
+  "bugs": {
+    "url": "https://github.com/Achillesy/nodejs-runoob/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Achillesy/nodejs-runoob.git"
+  },
+  "license": "ISC",
+  "author": "Achilles Newman",
+  "type": "commonjs",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
